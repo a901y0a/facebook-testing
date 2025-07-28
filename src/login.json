@@ -1,0 +1,182 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "content": "Just enjoying my day on Facebook!",
+      "time": "1 hour ago",
+      "images": [
+        "https://media.istockphoto.com/id/459964807/photo/sepia.webp?a=1&b=1&s=612x612&w=0&k=20&c=4E9q9LvIfZSsxqqWWdiqEXbpzKLSgHVEJhTeIa4PBlM="
+      ],
+      "profilePic": "https://th.bing.com/th?q=User+Account+Icon",
+      "replies": [],
+      "likes": 1,
+      "liked": true
+    },
+    {
+      "id": "2",
+      "name": "Lisa Ray",
+      "content": "What a lovely sunset today!",
+      "time": "2 hours ago",
+      "images": [
+        "https://tse2.mm.bing.net/th/id/OIP.0M-WxHI7MMPUeQkVPVrrSgHaE6?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+      ],
+      "profilePic": "https://randomuser.me/api/portraits/women/44.jpg",
+      "replies": [
+        "So beautiful!",
+        "Wow!"
+      ],
+      "likes": 5,
+      "liked": false
+    },
+    {
+      "id": "3",
+      "name": "Alex Smith",
+      "content": "Weekend hike adventures 🥾🌲",
+      "time": "3 hours ago",
+      "images": [
+        "https://adventures.com/media/16338/s-happy-man-hiking-spreading-arms-sweden-summer.jpg"
+      ],
+      "profilePic": "https://randomuser.me/api/portraits/men/47.jpg",
+      "replies": [
+        "enjoy "
+      ],
+      "likes": 2,
+      "liked": false
+    },
+    {
+      "id": "f0b1",
+      "name": "You",
+      "content": "Hi",
+      "time": "Just now",
+      "images": [
+        "blob:http://localhost:5173/3eae3896-4ec3-4e5e-bf0d-6d8d2a102271"
+      ],
+      "profilePic": "https://th.bing.com/th?q=User+Account+Icon",
+      "replies": [],
+      "likes": 0,
+      "liked": false
+    }
+  ],
+  "stories": [
+    {
+      "id": "0",
+      "title": "Your Story",
+      "img": "https://th.bing.com/th?q=Add+Story+Icon",
+      "replies": []
+    },
+    {
+      "id": "1",
+      "title": "Tharu",
+      "img": "https://th.bing.com/th/id/OIP.DjeZBZp43bXNPM8cefjw-QHaEK",
+      "replies": [
+        "hi"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Jenni_01",
+      "img": "https://tse1.mm.bing.net/th/id/OIP.DHVLtvgV0hRBXlnOF-BTGAHaFD",
+      "replies": []
+    },
+    {
+      "id": "3",
+      "title": "Benny_dayal",
+      "img": "https://th.bing.com/th/id/OIP.uMPlLEd4A4JGIqC1sKKPXwHaPH",
+      "replies": []
+    },
+    {
+      "id": "4",
+      "title": "Kamal",
+      "img": "https://miro.medium.com/v2/resize:fit:785/0*Ggt-XwliwAO6QURi.jpg",
+      "replies": []
+    },
+    {
+      "id": "5",
+      "title": "Monica_77",
+      "img": "https://tse4.mm.bing.net/th/id/OIP.xd0sc57HXQCqiJGHQ1dEmgHaLT",
+      "replies": [
+        "gg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "charuu",
+      "img": "https://i.pinimg.com/originals/8d/e4/1f/8de41f44d4f422b21b503d7bb1f298ce.jpg",
+      "replies": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "A comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "Another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "emailOrMobile": "alice.smith@example.com",
+      "reEnterEmailOrMobile": "alice.smith@example.com",
+      "newPassword": "Password123!",
+      "birthday": {
+        "month": "April",
+        "day": 15,
+        "year": 1995
+      },
+      "gender": "Female"
+    },
+    {
+      "id": "2",
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "emailOrMobile": "+1234567890",
+      "reEnterEmailOrMobile": "+1234567890",
+      "newPassword": "SecurePass456!",
+      "birthday": {
+        "month": "December",
+        "day": 3,
+        "year": 1988
+      },
+      "gender": "Male"
+    },
+    {
+      "id": "3",
+      "firstName": "Charlie",
+      "lastName": "Lee",
+      "emailOrMobile": "charlie.lee@example.com",
+      "reEnterEmailOrMobile": "charlie.lee@example.com",
+      "newPassword": "MyPass789!",
+      "birthday": {
+        "month": "June",
+        "day": 22,
+        "year": 2000
+      },
+      "gender": "Male"
+    },
+    {
+      "id": "4",
+      "firstName": "Agalya",
+      "lastName": "T",
+      "emailOrMobile": "agal@gmail.com",
+      "reEnterEmailOrMobile": "agal@gmail.com",
+      "newPassword": "Agalya123",
+      "birthday": {
+        "month": "May",
+        "day": 28,
+        "year": 2004
+      },
+      "gender": "Female"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
